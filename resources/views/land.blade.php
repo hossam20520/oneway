@@ -5,7 +5,7 @@
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
         <meta name="description" content="" />
         <meta name="author" content="" />
-        <title>Senfineco - App</title>
+        <title>car way - App</title>
         <link rel="icon" type="image/x-icon" href="{{ asset('land/assets/img/facic.ico')}}" />
         <!-- Bootstrap icons-->
         <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.5.0/font/bootstrap-icons.css" rel="stylesheet" />
@@ -94,7 +94,7 @@
             <div class="container px-5">
                 <div class="row gx-5 justify-content-center">
                     <div class="col-xl-8">
-                        <div class="h2 fs-1 text-white mb-4">"تطبيق كار واي هو تطبيق لتوصيل</div>
+                        <div class="h2 fs-1 text-white mb-4">"كار واي هو تطبيق متخصص وذو فكرة جديدة للنقل والتنقل"</div>
                         {{-- <img src="{{ asset('land/assets/img/bacGround-removebg-preview.png') }}" alt="..." style="height: 3rem" /> --}}
                     </div>
                 </div>
