@@ -94,10 +94,10 @@
             <div class="container px-5">
                 <div class="row gx-5 justify-content-center">
                     <div class="col-xl-8">
-                        <div class="h2 fs-1 text-white mb-4">"كار واي هو تطبيق متخصص وذو فكرة جديدة للنقل والتنقل"</div>
+                        <div class="h2 fs-1 text-white mb-4">"سيكون المبلغ المحصل من العميل وبنسبة اعلى هو الربح الخاص بك وبمبلغ مقطوع فقط من الرحلة سجل في التطبيق وتستفيد من التجربة المدفوعة لك وحقق ارباح اكثر مع كل رحله"</div>
                         {{-- <img src="{{ asset('land/assets/img/bacGround-removebg-preview.png') }}" alt="..." style="height: 3rem" /> --}}
                     </div>
-                </div>
+                </div> 
             </div>
         </aside>
         <!-- App features section-->
@@ -187,18 +187,9 @@
             <div class="container px-5">
                 <div class="row gx-5 align-items-center justify-content-center justify-content-lg-between">
                     <div class="col-12 col-lg-5">
-                        <h2 class="display-4 lh-1 mb-4" style="direction: rtl;color: #ed1b23;">تطبيق توصيل</h2>
+                        <h2 class="display-4 lh-1 mb-4" style="direction: rtl;color: #ed1b23;">السائق</h2>
                         <p class="lead fw-normal text-muted mb-5 mb-lg-0" style="direction: rtl;">
-                            نحن ملتزمون بسلامتك في كار واي 
-                            . ومع كار واي ، وجهتك في متناول يدك.
-
-                            ما عليك سوى فتح التطبيق وإدخال المكان الذي تريد الذهاب إليه.
-                            
-                            استخدم كار واي  للحصول على وجهتك على الفور
-                            
-                            يعد تطبيق كار واي طريقة رائعة لجعل خطط السفر الخاصة بك خالية من الإجهاد. اطلب توصيلة عند الطلب
-                            
-                            ابحث عن رحلة إلى أي مكان تقريبًا سواء كنت تبحث عن أسلوب أو مساحة أو بأسعار معقولة ، استخدم كار واي
+ستحقق دخل اضافي ومبلغ اعلى مع كثرة الرحلات التي ستقوم بها في الوقت المناسب لك والمنطقة المناسبه لك ومبلغ ثابت
                         </div>
                     <div class="col-sm-8 col-md-6">
                         <div class="px-5 px-sm-0">
