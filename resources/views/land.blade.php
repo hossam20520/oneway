@@ -193,7 +193,7 @@
                         </div>
                     <div class="col-sm-8 col-md-6">
                         <div class="px-5 px-sm-0">
-                            <img class="img-fluid rounded-circle" src="{{ asset('land/assets/img/hossam.png')}}" alt="..." ></div>
+                            <img class="img-fluid rounded-circle" src="{{ asset('land/assets/img/hossam_2.png')}}" alt="..." ></div>
                             <!-- style="border: 2px solid #f68a1d;border-color: -webkit-linear-gradient(#e99d4f, #00adb5);padding: 10px; border-radius: 14px;" -->
                     </div>
                 </div>
